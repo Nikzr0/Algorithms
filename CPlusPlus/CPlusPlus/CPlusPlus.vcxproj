@@ -24,6 +24,7 @@
     <ProjectGuid>{219d178e-57b1-4f4e-b2e0-757943c8825c}</ProjectGuid>
     <RootNamespace>CPlusPlus</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>BalancedBalls</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
