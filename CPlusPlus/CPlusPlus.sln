@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPlusPlus", "CPlusPlus\CPlusPlus.vcxproj", "{219D178E-57B1-4F4E-B2E0-757943C8825C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BalancedBalls", "CPlusPlus\CPlusPlus.vcxproj", "{219D178E-57B1-4F4E-B2E0-757943C8825C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BalancedColoredBallsPairs", "BalancedColoredBallsPairs\BalancedColoredBallsPairs.vcxproj", "{42044BF9-A833-4FE7-BEBE-416868253927}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Odd4", "Odd4\Odd4.vcxproj", "{BB154BEC-7FC3-4730-965F-C361C6368D34}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sequence26", "Sequence26\Sequence26.vcxproj", "{AD84D3C6-7DA1-4128-B9D3-E0DBDAA418CC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cred", "Cred\Cred.vcxproj", "{E0A9D2A2-D5ED-480E-81E5-1D2F0E75593C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameWithBalls", "GameWithBalls\GameWithBalls.vcxproj", "{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +39,38 @@ Global
 		{42044BF9-A833-4FE7-BEBE-416868253927}.Release|x64.Build.0 = Release|x64
 		{42044BF9-A833-4FE7-BEBE-416868253927}.Release|x86.ActiveCfg = Release|Win32
 		{42044BF9-A833-4FE7-BEBE-416868253927}.Release|x86.Build.0 = Release|Win32
+		{BB154BEC-7FC3-4730-965F-C361C6368D34}.Debug|x64.ActiveCfg = Debug|x64
+		{BB154BEC-7FC3-4730-965F-C361C6368D34}.Debug|x64.Build.0 = Debug|x64
+		{BB154BEC-7FC3-4730-965F-C361C6368D34}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB154BEC-7FC3-4730-965F-C361C6368D34}.Debug|x86.Build.0 = Debug|Win32
+		{BB154BEC-7FC3-4730-965F-C361C6368D34}.Release|x64.ActiveCfg = Release|x64
+		{BB154BEC-7FC3-4730-965F-C361C6368D34}.Release|x64.Build.0 = Release|x64
+		{BB154BEC-7FC3-4730-965F-C361C6368D34}.Release|x86.ActiveCfg = Release|Win32
+		{BB154BEC-7FC3-4730-965F-C361C6368D34}.Release|x86.Build.0 = Release|Win32
+		{AD84D3C6-7DA1-4128-B9D3-E0DBDAA418CC}.Debug|x64.ActiveCfg = Debug|x64
+		{AD84D3C6-7DA1-4128-B9D3-E0DBDAA418CC}.Debug|x64.Build.0 = Debug|x64
+		{AD84D3C6-7DA1-4128-B9D3-E0DBDAA418CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD84D3C6-7DA1-4128-B9D3-E0DBDAA418CC}.Debug|x86.Build.0 = Debug|Win32
+		{AD84D3C6-7DA1-4128-B9D3-E0DBDAA418CC}.Release|x64.ActiveCfg = Release|x64
+		{AD84D3C6-7DA1-4128-B9D3-E0DBDAA418CC}.Release|x64.Build.0 = Release|x64
+		{AD84D3C6-7DA1-4128-B9D3-E0DBDAA418CC}.Release|x86.ActiveCfg = Release|Win32
+		{AD84D3C6-7DA1-4128-B9D3-E0DBDAA418CC}.Release|x86.Build.0 = Release|Win32
+		{E0A9D2A2-D5ED-480E-81E5-1D2F0E75593C}.Debug|x64.ActiveCfg = Debug|x64
+		{E0A9D2A2-D5ED-480E-81E5-1D2F0E75593C}.Debug|x64.Build.0 = Debug|x64
+		{E0A9D2A2-D5ED-480E-81E5-1D2F0E75593C}.Debug|x86.ActiveCfg = Debug|Win32
+		{E0A9D2A2-D5ED-480E-81E5-1D2F0E75593C}.Debug|x86.Build.0 = Debug|Win32
+		{E0A9D2A2-D5ED-480E-81E5-1D2F0E75593C}.Release|x64.ActiveCfg = Release|x64
+		{E0A9D2A2-D5ED-480E-81E5-1D2F0E75593C}.Release|x64.Build.0 = Release|x64
+		{E0A9D2A2-D5ED-480E-81E5-1D2F0E75593C}.Release|x86.ActiveCfg = Release|Win32
+		{E0A9D2A2-D5ED-480E-81E5-1D2F0E75593C}.Release|x86.Build.0 = Release|Win32
+		{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}.Debug|x64.ActiveCfg = Debug|x64
+		{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}.Debug|x64.Build.0 = Debug|x64
+		{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}.Debug|x86.Build.0 = Debug|Win32
+		{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}.Release|x64.ActiveCfg = Release|x64
+		{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}.Release|x64.Build.0 = Release|x64
+		{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}.Release|x86.ActiveCfg = Release|Win32
+		{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Programming\\Algorithms\\CPlusPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{219D178E-57B1-4F4E-B2E0-757943C8825C}|CPlusPlus\\CPlusPlus.vcxproj|D:\\Programming\\Algorithms\\CPlusPlus\\CPlusPlus\\CPlusPlus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{219D178E-57B1-4F4E-B2E0-757943C8825C}|CPlusPlus\\CPlusPlus.vcxproj|solutionrelative:CPlusPlus\\CPlusPlus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}|GameWithBalls\\GameWithBalls.vcxproj|D:\\Programming\\Algorithms\\CPlusPlus\\GameWithBalls\\GameWithBalls.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4486869D-C6DA-4C83-8C48-182FB1F1F3A6}|GameWithBalls\\GameWithBalls.vcxproj|solutionrelative:GameWithBalls\\GameWithBalls.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CPlusPlus.cpp",
-              "DocumentMoniker": "D:\\Programming\\Algorithms\\CPlusPlus\\CPlusPlus\\CPlusPlus.cpp",
-              "RelativeDocumentMoniker": "CPlusPlus\\CPlusPlus.cpp",
-              "ToolTip": "D:\\Programming\\Algorithms\\CPlusPlus\\CPlusPlus\\CPlusPlus.cpp",
-              "RelativeToolTip": "CPlusPlus\\CPlusPlus.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAABAAAA",
+              "Title": "GameWithBalls.cpp",
+              "DocumentMoniker": "D:\\Programming\\Algorithms\\CPlusPlus\\GameWithBalls\\GameWithBalls.cpp",
+              "RelativeDocumentMoniker": "GameWithBalls\\GameWithBalls.cpp",
+              "ToolTip": "D:\\Programming\\Algorithms\\CPlusPlus\\GameWithBalls\\GameWithBalls.cpp",
+              "RelativeToolTip": "GameWithBalls\\GameWithBalls.cpp",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAkwGEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-11T06:02:50.526Z",
+              "WhenOpened": "2024-06-12T15:40:20.019Z",
               "EditorCaption": ""
             }
           ]
