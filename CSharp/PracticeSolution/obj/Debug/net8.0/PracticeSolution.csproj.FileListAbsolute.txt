@@ -1,0 +1,15 @@
+D:\Programming\Algorithms\CSharp\PracticeSolution\bin\Debug\net8.0\PracticeSolution.exe
+D:\Programming\Algorithms\CSharp\PracticeSolution\bin\Debug\net8.0\PracticeSolution.deps.json
+D:\Programming\Algorithms\CSharp\PracticeSolution\bin\Debug\net8.0\PracticeSolution.runtimeconfig.json
+D:\Programming\Algorithms\CSharp\PracticeSolution\bin\Debug\net8.0\PracticeSolution.dll
+D:\Programming\Algorithms\CSharp\PracticeSolution\bin\Debug\net8.0\PracticeSolution.pdb
+D:\Programming\Algorithms\CSharp\PracticeSolution\obj\Debug\net8.0\PracticeSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Algorithms\CSharp\PracticeSolution\obj\Debug\net8.0\PracticeSolution.AssemblyInfoInputs.cache
+D:\Programming\Algorithms\CSharp\PracticeSolution\obj\Debug\net8.0\PracticeSolution.AssemblyInfo.cs
+D:\Programming\Algorithms\CSharp\PracticeSolution\obj\Debug\net8.0\PracticeSolution.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms\CSharp\PracticeSolution\obj\Debug\net8.0\PracticeSolution.sourcelink.json
+D:\Programming\Algorithms\CSharp\PracticeSolution\obj\Debug\net8.0\PracticeSolution.dll
+D:\Programming\Algorithms\CSharp\PracticeSolution\obj\Debug\net8.0\refint\PracticeSolution.dll
+D:\Programming\Algorithms\CSharp\PracticeSolution\obj\Debug\net8.0\PracticeSolution.pdb
+D:\Programming\Algorithms\CSharp\PracticeSolution\obj\Debug\net8.0\PracticeSolution.genruntimeconfig.cache
+D:\Programming\Algorithms\CSharp\PracticeSolution\obj\Debug\net8.0\ref\PracticeSolution.dll
