@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED899DA-9674-4E63-A8CC-EF2B38956CB1}|LeetCodeCPlusPlus\\LeetCodeCPlusPlus.vcxproj|D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\LeetCodeCPlusPlus\\LeetCodeCPlusPlus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED899DA-9674-4E63-A8CC-EF2B38956CB1}|LeetCodeCPlusPlus\\LeetCodeCPlusPlus.vcxproj|solutionrelative:LeetCodeCPlusPlus\\LeetCodeCPlusPlus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeetCodeCPlusPlus.cpp",
+              "DocumentMoniker": "D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\LeetCodeCPlusPlus\\LeetCodeCPlusPlus.cpp",
+              "RelativeDocumentMoniker": "LeetCodeCPlusPlus\\LeetCodeCPlusPlus.cpp",
+              "ToolTip": "D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\LeetCodeCPlusPlus\\LeetCodeCPlusPlus.cpp",
+              "RelativeToolTip": "LeetCodeCPlusPlus\\LeetCodeCPlusPlus.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T06:06:16.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

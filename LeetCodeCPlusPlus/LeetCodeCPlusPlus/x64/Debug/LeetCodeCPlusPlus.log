@@ -1,0 +1,4 @@
+﻿  LeetCodeCPlusPlus.cpp
+D:\Programming\Algorithms\LeetCodeCPlusPlus\LeetCodeCPlusPlus\LeetCodeCPlusPlus.cpp(11,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\Algorithms\LeetCodeCPlusPlus\LeetCodeCPlusPlus\LeetCodeCPlusPlus.cpp(26,1): warning C4715: 'Solution::gcdOfStrings': not all control paths return a value
+  LeetCodeCPlusPlus.vcxproj -> D:\Programming\Algorithms\LeetCodeCPlusPlus\x64\Debug\LeetCodeCPlusPlus.exe
