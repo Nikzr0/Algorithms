@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88B450C2-F30D-495B-A458-AACBEA11F91E}|ReverseVolvesInString\\ReverseVolvesInString.vcxproj|D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\ReverseVolvesInString\\ReverseVolvesInString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88B450C2-F30D-495B-A458-AACBEA11F91E}|ReverseVolvesInString\\ReverseVolvesInString.vcxproj|solutionrelative:ReverseVolvesInString\\ReverseVolvesInString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CD9802D-03F4-49F8-B854-D331568EE884}|MoveZeros\\MoveZeros.vcxproj|D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\MoveZeros\\MoveZeros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4CD9802D-03F4-49F8-B854-D331568EE884}|MoveZeros\\MoveZeros.vcxproj|solutionrelative:MoveZeros\\MoveZeros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReverseVolvesInString.cpp",
+              "DocumentMoniker": "D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\ReverseVolvesInString\\ReverseVolvesInString.cpp",
+              "RelativeDocumentMoniker": "ReverseVolvesInString\\ReverseVolvesInString.cpp",
+              "ToolTip": "D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\ReverseVolvesInString\\ReverseVolvesInString.cpp",
+              "RelativeToolTip": "ReverseVolvesInString\\ReverseVolvesInString.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-22T12:53:47.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MoveZeros.cpp",
               "DocumentMoniker": "D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\MoveZeros\\MoveZeros.cpp",
               "RelativeDocumentMoniker": "MoveZeros\\MoveZeros.cpp",
               "ToolTip": "D:\\Programming\\Algorithms\\LeetCodeCPlusPlus\\MoveZeros\\MoveZeros.cpp",
               "RelativeToolTip": "MoveZeros\\MoveZeros.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAmwDcAAAAsAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-21T04:44:21.583Z",
               "EditorCaption": ""

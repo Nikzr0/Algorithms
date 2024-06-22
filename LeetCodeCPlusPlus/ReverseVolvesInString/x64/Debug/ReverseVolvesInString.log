@@ -1,0 +1,3 @@
+﻿  ReverseVolvesInString.cpp
+D:\Programming\Algorithms\LeetCodeCPlusPlus\ReverseVolvesInString\ReverseVolvesInString.cpp(22,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ReverseVolvesInString.vcxproj -> D:\Programming\Algorithms\LeetCodeCPlusPlus\x64\Debug\ReverseVolvesInString.exe

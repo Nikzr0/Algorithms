@@ -9,7 +9,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KidsWIthTheMostCandies", "K
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlowerBedPosition", "FlowerBedPosition\FlowerBedPosition.vcxproj", "{C526A98C-24A6-42C3-A95C-B6DA70B67C07}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MoveZeros", "MoveZeros\MoveZeros.vcxproj", "{4CD9802D-03F4-49F8-B854-D331568EE884}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MoveZeroes", "MoveZeros\MoveZeros.vcxproj", "{4CD9802D-03F4-49F8-B854-D331568EE884}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseVolvesInString", "ReverseVolvesInString\ReverseVolvesInString.vcxproj", "{88B450C2-F30D-495B-A458-AACBEA11F91E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{4CD9802D-03F4-49F8-B854-D331568EE884}.Release|x64.Build.0 = Release|x64
 		{4CD9802D-03F4-49F8-B854-D331568EE884}.Release|x86.ActiveCfg = Release|Win32
 		{4CD9802D-03F4-49F8-B854-D331568EE884}.Release|x86.Build.0 = Release|Win32
+		{88B450C2-F30D-495B-A458-AACBEA11F91E}.Debug|x64.ActiveCfg = Debug|x64
+		{88B450C2-F30D-495B-A458-AACBEA11F91E}.Debug|x64.Build.0 = Debug|x64
+		{88B450C2-F30D-495B-A458-AACBEA11F91E}.Debug|x86.ActiveCfg = Debug|Win32
+		{88B450C2-F30D-495B-A458-AACBEA11F91E}.Debug|x86.Build.0 = Debug|Win32
+		{88B450C2-F30D-495B-A458-AACBEA11F91E}.Release|x64.ActiveCfg = Release|x64
+		{88B450C2-F30D-495B-A458-AACBEA11F91E}.Release|x64.Build.0 = Release|x64
+		{88B450C2-F30D-495B-A458-AACBEA11F91E}.Release|x86.ActiveCfg = Release|Win32
+		{88B450C2-F30D-495B-A458-AACBEA11F91E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
