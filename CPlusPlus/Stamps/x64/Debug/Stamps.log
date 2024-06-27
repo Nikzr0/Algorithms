@@ -1,0 +1,9 @@
+﻿  Stamps.cpp
+D:\Programming\Algorithms\CPlusPlus\Stamps\Stamps.cpp(32,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\Algorithms\CPlusPlus\Stamps\Stamps.cpp(37,23): warning C4244: 'initializing': conversion from '_Ty2' to 'int', possible loss of data
+D:\Programming\Algorithms\CPlusPlus\Stamps\Stamps.cpp(37,23): warning C4244:         with
+D:\Programming\Algorithms\CPlusPlus\Stamps\Stamps.cpp(37,23): warning C4244:         [
+D:\Programming\Algorithms\CPlusPlus\Stamps\Stamps.cpp(37,23): warning C4244:             _Ty2=__int64
+D:\Programming\Algorithms\CPlusPlus\Stamps\Stamps.cpp(37,23): warning C4244:         ]
+D:\Programming\Algorithms\CPlusPlus\Stamps\Stamps.cpp(41,26): warning C4244: '-=': conversion from '__int64' to 'int', possible loss of data
+  Stamps.vcxproj -> D:\Programming\Algorithms\CPlusPlus\x64\Debug\Stamps.exe

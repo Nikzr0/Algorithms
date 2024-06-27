@@ -1,4 +1,4 @@
 ﻿  Odd4.cpp
-D:\Programming\Algorithms\CPlusPlus\Odd4\Odd4.cpp(9,21): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
-D:\Programming\Algorithms\CPlusPlus\Odd4\Odd4.cpp(11,19): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\Algorithms\CPlusPlus\Odd4\Odd4.cpp(9,28): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\Algorithms\CPlusPlus\Odd4\Odd4.cpp(11,26): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
   Odd4.vcxproj -> D:\Programming\Algorithms\CPlusPlus\x64\Debug\Odd4.exe

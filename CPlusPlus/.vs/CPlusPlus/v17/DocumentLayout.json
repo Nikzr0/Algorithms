@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Programming\\Algorithms\\CPlusPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0CDC78C-5751-41AF-BA32-2AC19E72F80C}|Pairs\\Pairs.vcxproj|D:\\Programming\\Algorithms\\CPlusPlus\\Pairs\\Pairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B0CDC78C-5751-41AF-BA32-2AC19E72F80C}|Pairs\\Pairs.vcxproj|solutionrelative:Pairs\\Pairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B29CCC46-7BCD-48E4-8DE8-1816285FE667}|Stamps\\Stamps.vcxproj|D:\\Programming\\Algorithms\\CPlusPlus\\Stamps\\Stamps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29CCC46-7BCD-48E4-8DE8-1816285FE667}|Stamps\\Stamps.vcxproj|solutionrelative:Stamps\\Stamps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pairs.cpp",
-              "DocumentMoniker": "D:\\Programming\\Algorithms\\CPlusPlus\\Pairs\\Pairs.cpp",
-              "RelativeDocumentMoniker": "Pairs\\Pairs.cpp",
-              "ToolTip": "D:\\Programming\\Algorithms\\CPlusPlus\\Pairs\\Pairs.cpp",
-              "RelativeToolTip": "Pairs\\Pairs.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Title": "Stamps.cpp",
+              "DocumentMoniker": "D:\\Programming\\Algorithms\\CPlusPlus\\Stamps\\Stamps.cpp",
+              "RelativeDocumentMoniker": "Stamps\\Stamps.cpp",
+              "ToolTip": "D:\\Programming\\Algorithms\\CPlusPlus\\Stamps\\Stamps.cpp",
+              "RelativeToolTip": "Stamps\\Stamps.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwDkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-21T05:03:57.956Z",
+              "WhenOpened": "2024-06-27T13:18:58.693Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,3 @@
 ﻿  Sequence26.cpp
-D:\Programming\Algorithms\CPlusPlus\Sequence26\Sequence26.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
-D:\Programming\Algorithms\CPlusPlus\Sequence26\Sequence26.cpp(17,19): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\Algorithms\CPlusPlus\Sequence26\Sequence26.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
   Sequence26.vcxproj -> D:\Programming\Algorithms\CPlusPlus\x64\Debug\Sequence26.exe
