@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Programming\\Algorithms\\CPlusPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B29CCC46-7BCD-48E4-8DE8-1816285FE667}|Stamps\\Stamps.vcxproj|D:\\Programming\\Algorithms\\CPlusPlus\\Stamps\\Stamps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B29CCC46-7BCD-48E4-8DE8-1816285FE667}|Stamps\\Stamps.vcxproj|solutionrelative:Stamps\\Stamps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BCDA5E23-8732-4EF6-82DD-7F8391EC838D}|WaterCrisis\\WaterCrisis.vcxproj|D:\\Programming\\Algorithms\\CPlusPlus\\WaterCrisis\\WaterCrisis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCDA5E23-8732-4EF6-82DD-7F8391EC838D}|WaterCrisis\\WaterCrisis.vcxproj|solutionrelative:WaterCrisis\\WaterCrisis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Stamps.cpp",
-              "DocumentMoniker": "D:\\Programming\\Algorithms\\CPlusPlus\\Stamps\\Stamps.cpp",
-              "RelativeDocumentMoniker": "Stamps\\Stamps.cpp",
-              "ToolTip": "D:\\Programming\\Algorithms\\CPlusPlus\\Stamps\\Stamps.cpp",
-              "RelativeToolTip": "Stamps\\Stamps.cpp",
-              "ViewState": "AQIAACkAAAAAAAAAAAAQwDkAAAAGAAAA",
+              "Title": "WaterCrisis.cpp",
+              "DocumentMoniker": "D:\\Programming\\Algorithms\\CPlusPlus\\WaterCrisis\\WaterCrisis.cpp",
+              "RelativeDocumentMoniker": "WaterCrisis\\WaterCrisis.cpp",
+              "ToolTip": "D:\\Programming\\Algorithms\\CPlusPlus\\WaterCrisis\\WaterCrisis.cpp",
+              "RelativeToolTip": "WaterCrisis\\WaterCrisis.cpp",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwFsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-27T13:18:58.693Z",
+              "WhenOpened": "2024-07-02T19:54:28.77Z",
               "EditorCaption": ""
             }
           ]
