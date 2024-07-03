@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stamps", "Stamps\Stamps.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WaterCrisis", "WaterCrisis\WaterCrisis.vcxproj", "{BCDA5E23-8732-4EF6-82DD-7F8391EC838D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Range", "Range\Range.vcxproj", "{C078D038-F4BF-4948-84C7-00C10CACDE44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{BCDA5E23-8732-4EF6-82DD-7F8391EC838D}.Release|x64.Build.0 = Release|x64
 		{BCDA5E23-8732-4EF6-82DD-7F8391EC838D}.Release|x86.ActiveCfg = Release|Win32
 		{BCDA5E23-8732-4EF6-82DD-7F8391EC838D}.Release|x86.Build.0 = Release|Win32
+		{C078D038-F4BF-4948-84C7-00C10CACDE44}.Debug|x64.ActiveCfg = Debug|x64
+		{C078D038-F4BF-4948-84C7-00C10CACDE44}.Debug|x64.Build.0 = Debug|x64
+		{C078D038-F4BF-4948-84C7-00C10CACDE44}.Debug|x86.ActiveCfg = Debug|Win32
+		{C078D038-F4BF-4948-84C7-00C10CACDE44}.Debug|x86.Build.0 = Debug|Win32
+		{C078D038-F4BF-4948-84C7-00C10CACDE44}.Release|x64.ActiveCfg = Release|x64
+		{C078D038-F4BF-4948-84C7-00C10CACDE44}.Release|x64.Build.0 = Release|x64
+		{C078D038-F4BF-4948-84C7-00C10CACDE44}.Release|x86.ActiveCfg = Release|Win32
+		{C078D038-F4BF-4948-84C7-00C10CACDE44}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
