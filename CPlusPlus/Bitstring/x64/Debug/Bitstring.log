@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Access to the path 'd:\programming\algorithms\cplusplus\x64\debug\bitstring.exe' is denied.
+  Bitstring.cpp
+LINK : fatal error LNK1104: cannot open file 'D:\Programming\Algorithms\CPlusPlus\x64\Debug\Bitstring.exe'

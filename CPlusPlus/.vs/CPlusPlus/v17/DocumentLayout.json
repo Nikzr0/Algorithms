@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Programming\\Algorithms\\CPlusPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C078D038-F4BF-4948-84C7-00C10CACDE44}|Range\\Range.vcxproj|D:\\Programming\\Algorithms\\CPlusPlus\\Range\\Range.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C078D038-F4BF-4948-84C7-00C10CACDE44}|Range\\Range.vcxproj|solutionrelative:Range\\Range.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FBD426D3-B57C-4D99-89EA-E8D91CC4E2FF}|BitStringExercise\\BitStringExercise.vcxproj|D:\\Programming\\Algorithms\\CPlusPlus\\BitStringExercise\\BitStringExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBD426D3-B57C-4D99-89EA-E8D91CC4E2FF}|BitStringExercise\\BitStringExercise.vcxproj|solutionrelative:BitStringExercise\\BitStringExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Range.cpp",
-              "DocumentMoniker": "D:\\Programming\\Algorithms\\CPlusPlus\\Range\\Range.cpp",
-              "RelativeDocumentMoniker": "Range\\Range.cpp",
-              "ToolTip": "D:\\Programming\\Algorithms\\CPlusPlus\\Range\\Range.cpp",
-              "RelativeToolTip": "Range\\Range.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Title": "BitStringExercise.cpp",
+              "DocumentMoniker": "D:\\Programming\\Algorithms\\CPlusPlus\\BitStringExercise\\BitStringExercise.cpp",
+              "RelativeDocumentMoniker": "BitStringExercise\\BitStringExercise.cpp",
+              "ToolTip": "D:\\Programming\\Algorithms\\CPlusPlus\\BitStringExercise\\BitStringExercise.cpp",
+              "RelativeToolTip": "BitStringExercise\\BitStringExercise.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-03T09:14:40.363Z",
+              "WhenOpened": "2024-07-04T08:04:09.592Z",
               "EditorCaption": ""
             }
           ]
