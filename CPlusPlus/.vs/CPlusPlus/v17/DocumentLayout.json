@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Programming\\Algorithms\\CPlusPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBD426D3-B57C-4D99-89EA-E8D91CC4E2FF}|BitStringExercise\\BitStringExercise.vcxproj|D:\\Programming\\Algorithms\\CPlusPlus\\BitStringExercise\\BitStringExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FBD426D3-B57C-4D99-89EA-E8D91CC4E2FF}|BitStringExercise\\BitStringExercise.vcxproj|solutionrelative:BitStringExercise\\BitStringExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{048A1BEF-7B3E-4553-AEEB-FDC670A1AC10}|Recovery\\Recovery.vcxproj|D:\\Programming\\Algorithms\\CPlusPlus\\Recovery\\Recovery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{048A1BEF-7B3E-4553-AEEB-FDC670A1AC10}|Recovery\\Recovery.vcxproj|solutionrelative:Recovery\\Recovery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BitStringExercise.cpp",
-              "DocumentMoniker": "D:\\Programming\\Algorithms\\CPlusPlus\\BitStringExercise\\BitStringExercise.cpp",
-              "RelativeDocumentMoniker": "BitStringExercise\\BitStringExercise.cpp",
-              "ToolTip": "D:\\Programming\\Algorithms\\CPlusPlus\\BitStringExercise\\BitStringExercise.cpp",
-              "RelativeToolTip": "BitStringExercise\\BitStringExercise.cpp",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Recovery.cpp",
+              "DocumentMoniker": "D:\\Programming\\Algorithms\\CPlusPlus\\Recovery\\Recovery.cpp",
+              "RelativeDocumentMoniker": "Recovery\\Recovery.cpp",
+              "ToolTip": "D:\\Programming\\Algorithms\\CPlusPlus\\Recovery\\Recovery.cpp",
+              "RelativeToolTip": "Recovery\\Recovery.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-04T08:04:09.592Z",
+              "WhenOpened": "2024-07-04T10:02:57.776Z",
               "EditorCaption": ""
             }
           ]

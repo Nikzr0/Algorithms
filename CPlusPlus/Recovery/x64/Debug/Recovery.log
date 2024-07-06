@@ -1,2 +1,3 @@
 ﻿  Recovery.cpp
+D:\Programming\Algorithms\CPlusPlus\Recovery\Recovery.cpp(18,6): warning C4101: 'temp': unreferenced local variable
   Recovery.vcxproj -> D:\Programming\Algorithms\CPlusPlus\x64\Debug\Recovery.exe
